@@ -11,13 +11,17 @@ This project aims to predict future sales prices (e.g. real estate or product pr
 
 • Matplotlib, Seaborn
 #  🔍 Insights
+• Sale price is strongly influenced by features like location, size, and overall quality.
 
+• Removing outliers and handling missing data improved model accuracy.
 
+• Feature engineering (e.g., total area, property age) boosted performance.
 
+• Tree-based models (like XGBoost, Random Forest) outperformed linear models.
 
+• Proper encoding of categorical data was crucial for accurate predictions.
 
-
-
+• RMSE and R² scores were used to evaluate model performance effectively.
 
 # 👤 About Me
 Aspiring Data Scientist
